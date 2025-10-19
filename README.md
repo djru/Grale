@@ -7,7 +7,9 @@ A tiny command line tool I wrote to create gradient background for my phone
 `uv pip install .`
 
 ## Examples
-<img width="1290" height="2796" alt="output" src="https://github.com/user-attachments/assets/b0bd4c07-4742-4cb8-af23-bb12896cc5b5" />
+<img width="300" height="300" alt="output" src="https://github.com/user-attachments/assets/b0e204fe-0999-4900-9985-8314a7d12b39" />
+
+
 
 ### Create a gradient for an iphone 14 pro max
 ```grale -g #0E0021,.15,#140047,.4,#7B99D1,1.0 -p 14_pro_max```
