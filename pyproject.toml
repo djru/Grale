@@ -1,0 +1,14 @@
+[project]
+name = "grale"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "click>=8.3.0",
+    "numpy>=2.3.4",
+    "pillow>=12.0.0",
+]
+
+[project.scripts]
+grale = "main:generate"
