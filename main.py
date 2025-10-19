@@ -139,4 +139,4 @@ def generate():
     print('image location:', args.output)
     
 if __name__ == '__main__':
-    main()
+    generate()
